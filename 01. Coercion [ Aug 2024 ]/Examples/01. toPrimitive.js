@@ -34,7 +34,7 @@ console.log(a - b)
  * 
  * 3. {name:"karan"}.valueOf() ----> OBJECT ---> RETURN ?? X
  * 
- * 4. {name: "karan"}.toStrin() ----> "[object Object]"
+ * 4. {name: "karan"}.toString() ----> "[object Object]"
  *
  * 5. ToNumber("[object Object]") -----> NAN
  * 
